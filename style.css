@@ -132,6 +132,7 @@ h1{
 }
 .parameter-container{
     display: flex;
+    flex-wrap: wrap;
     gap: 10px 20px;
     justify-content: center;
     align-items: center;
